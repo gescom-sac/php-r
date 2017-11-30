@@ -2,13 +2,21 @@
     "name": "mineria/php-r",
     "description": "Biblioteca para Hack R PHP",
     "type": "library",
+	"homepage": "https://github.com/gescom-sac/php-r",
     "license": "GNU",
     "authors": [
         {
             "name": "Joel Vasquez",
             "email": "jvasquezv@gescom.com.pe"
-        }
+        },
+		{
+			"name": "Contributors",
+			"email": "alexander@kachkaev.ru",
+			"homepage": "http://en.kachkaev.ru/"
+		}
     ],
     "minimum-stability": "RC",
-    "require": {}
+    "require": {
+        "php": ">=5.3.9"
+    }
 }
