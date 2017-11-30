@@ -15,7 +15,7 @@
 			"homepage": "http://en.kachkaev.ru/"
 		}
     ],
-    "minimum-stability": "RC",
+     "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.9"
     }
