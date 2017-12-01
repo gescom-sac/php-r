@@ -227,3 +227,12 @@ See PHPdoc annotations to classes for more details.
 License
 -------
 MIT. See [LICENSE](LICENSE).
+=======
+
+
+# php-r
+
+Install Composer:
+
+# composer require mineria/php-r
+
